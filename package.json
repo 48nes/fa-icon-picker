@@ -1,5 +1,5 @@
 {
-  "name": "react-fa-icon-picker",
+  "name": "fa-icon-picker",
   "version": "1.0.3",
   "description": "An icon picker for font-awesome icons",
   "main": "dist/index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DATechnologies/react-fa-icon-picker.git"
+    "url": "git+https://github.com/48nes/fa-icon-picker.git"
   },
   "author": "Cory McAboy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DATechnologies/react-fa-icon-picker/issues"
+    "url": "https://github.com/48nes/fa-icon-picker/issues"
   },
-  "homepage": "https://github.com/DATechnologies/react-fa-icon-picker#readme",
+  "homepage": "https://github.com/48nes/fa-icon-picker#readme",
   "peerDependencies": {
     "react": "^16.8.0",
     "react-dom": "^16.8.0"
@@ -29,7 +29,7 @@
     "@types/react": "^16.9.38",
     "@types/react-dom": "^16.9.8",
     "@types/styled-components": "^5.1.0",
-    "babel-core": "^6.26.3",
+    "babel-core": "^4.7.16",
     "babel-runtime": "^6.26.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -38,7 +38,7 @@
     "typescript": "^3.9.5"
   },
   "dependencies": {
-    "csstype": "^2.6.10",
+    "csstype": "^2.6.21",
     "react-icons": "^3.10.0",
     "styled-components": "^5.1.1"
   }
