@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/48nes/fa-icon-picker#readme",
   "peerDependencies": {
-    "react": "^16.8.0",
+    "react": "^18.2.0",
     "react-dom": "^16.8.0"
   },
   "files": [
@@ -31,7 +31,7 @@
     "@types/styled-components": "^5.1.0",
     "babel-core": "^4.7.16",
     "babel-runtime": "^6.26.0",
-    "react": "^16.13.1",
+    "react": "^18.2.0",
     "react-dom": "^16.13.1",
     "rollup": "^2.17.1",
     "rollup-plugin-typescript2": "^0.27.1",

@@ -1,5 +1,4 @@
 import * as React from 'react'
-import * as FontIcon from 'react-icons/fa'
 import * as CSS from 'csstype'
 import { IconList } from '.'
 
